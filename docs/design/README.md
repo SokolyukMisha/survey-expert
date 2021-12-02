@@ -2,6 +2,7 @@
 
 В рамках проекту розробляється: 
 - модель бізнес-об'єктів 
+- 
 @startuml
 entity User #eeffff
 entity User.Name 
