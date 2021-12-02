@@ -2,7 +2,7 @@
 
 В рамках проекту розробляється: 
 - модель бізнес-об'єктів 
-- 
+ 
 @startuml
 entity User #eeffff
 entity User.Name 
@@ -153,6 +153,7 @@ PF_Poll -u-* PollFeedback
 QuestionFeedback "0,*"--*"1,*" PollFeedback
 
 @enduml
+
 - ER-модель
 - реляційна схема
 
